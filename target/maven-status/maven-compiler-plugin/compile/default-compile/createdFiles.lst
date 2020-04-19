@@ -1,0 +1,6 @@
+ua\com\qatestlab\prestashop\enums\Currency.class
+ua\com\qatestlab\prestashop\PrestashopAutomation.class
+ua\com\qatestlab\prestashop\pages\SearchPage.class
+ua\com\qatestlab\prestashop\pages\SearchPage$1.class
+ua\com\qatestlab\prestashop\enums\SortType.class
+ua\com\qatestlab\prestashop\pages\MainPage.class

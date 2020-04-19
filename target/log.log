@@ -1,0 +1,8 @@
+4351 [main] INFO  u.c.q.prestashop.pages.MainPage - Open main page
+4375 [main] INFO  u.c.q.prestashop.pages.MainPage - Try to change currency type on: USD $ 
+5510 [main] INFO  u.c.q.prestashop.pages.MainPage - Current currency type: Валюта: USD $ 
+5789 [main] INFO  u.c.q.prestashop.pages.MainPage - Search in catalog by text: dress
+6760 [main] INFO  u.c.q.prestashop.pages.SearchPage - Open search page
+7040 [main] INFO  u.c.q.prestashop.pages.SearchPage - Try to set sort type on: Цене: от низкой к высокой
+7703 [main] INFO  u.c.q.prestashop.pages.SearchPage - Current sort type: Цене: от низкой к высокой
+
